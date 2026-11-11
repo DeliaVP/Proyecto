@@ -2,9 +2,9 @@
 # Tiny Tapeout project information
 project:
   title:        "Figuress"      # Project title
-  author:       "Delia Vicente"      # Your name
+  author:       "Delia"      # Your name
   discord:      "N"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Moving pictures"      # One line description of what your project does
+  description:  "Movingpictures"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
