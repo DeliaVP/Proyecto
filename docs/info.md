@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The project works by using parameters to define the horizontal and vertical constants and their derivatives, as well as declaring coordinates to create the figures.
+The project works by using parameters to define the horizontal and vertical constants and their derivatives.
 
 ## How to test
 
-The project is completely autonomous; it does not require a switch to start the movement. When selecting the numeric buttons at the top of the screen, the format changes color.
+The project is completely autonomous; it does not require a switch to start the movement. 
 
 ## External hardware
 
