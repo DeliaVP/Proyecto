@@ -24,7 +24,7 @@ module tt_um_DeliaVP_Proyecto (
     wire [9:0] hpos, vpos;
 
     // Instantiate the sync generator
-    hvsync_generator hvsync_gen uut(
+    hvsync_generator hvsync_gen(
         .clk(clk),
         .reset(~rst_n),
         .hsync(hsync),
